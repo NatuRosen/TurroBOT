@@ -3651,7 +3651,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal"
 			(at 38.1 41.91 0)
 			(effects
 				(font
@@ -3805,7 +3805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 32.512 76.2 90)
 			(effects
 				(font
@@ -4796,7 +4796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Molex:Molex_01x02"
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 			(at 25.4 44.45 0)
 			(effects
 				(font
@@ -5064,7 +5064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm"
 			(at 34.29 68.58 0)
 			(effects
 				(font
@@ -5353,7 +5353,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Molex:Molex_01x02"
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 			(at 107.95 52.07 0)
 			(effects
 				(font
@@ -5620,7 +5620,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Molex:Molex_01x02"
+		(property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical"
 			(at 107.95 63.5 0)
 			(effects
 				(font
